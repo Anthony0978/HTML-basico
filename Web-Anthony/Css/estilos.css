@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+}
+    #fondo{
+        background-color: lightslategrey;
+}
+input{
+    border-radius: 15px;
+
+
+}
+textarea{
+    border-radius: 15px;
+
+}
+
+button{
+    border-radius: 15px;
+
+}

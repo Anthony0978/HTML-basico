@@ -1,0 +1,26 @@
+body{
+    background-color: lightsteelblue;
+}
+
+    #fondo{
+        background-color: lightslategrey;
+}
+
+    #formu{
+        background-color: lightblue;
+    }
+
+
+input{
+    border-radius: 15px;
+
+
+}
+textarea{
+    border-radius: 15px;
+
+}
+button{
+    border-radius: 15px;
+
+}

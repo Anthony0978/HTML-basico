@@ -1,0 +1,50 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    background: #EEAECA;
+    background: radial-gradient(circle,rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+    text-align: center;
+}
+
+h1{
+
+    font-size: 29px;
+    font-weight: 400;
+    color: beige;
+}
+
+p{
+    font-size: 18px;
+    font-weight: 300;
+
+}
+
+input{
+    border-radius: 6px;
+    background-color: lightsalmon;
+    border-color: salmon;
+}
+
+button{
+    color: white;
+    background-color: gray;
+    box-shadow: 3px 3px 3px 2px rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+    border-color: purple;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+}
+
+#texto{
+    font-size: 20px;
+    color: darkred;
+}
+
+#Suma{
+
+    display: block;
+    margin-bottom: 500px;
+}
